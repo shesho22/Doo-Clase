@@ -1,0 +1,31 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¶–àÒ8¸ì´Îş0H4RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8¸ì´Îş0H5RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ĞŸ ó8¸ì´Îş0H6RMAJORZ
+CODE_SMELL
+o	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¸ì´Îş0H7RMAJORZ
+CODE_SMELL
+s
+java:S1126B"AReplace this if-then-else statement by a single return statement.(Ï´ø”8¸ì´Îş0H8RMINORZ
+CODE_SMELL
+j	java:S106]"9Replace this use of System.out or System.err by a logger.(áŸ÷ù8¸ì´Îş0H9RMAJORZ
+CODE_SMELL
+j	java:S106^"9Replace this use of System.out or System.err by a logger.(Îªêã8¸ì´Îş0H:RMAJORZ
+CODE_SMELL
+j	java:S106i"9Replace this use of System.out or System.err by a logger.(„ñˆ®8¸ì´Îş0H;RMAJORZ
+CODE_SMELL
+o	java:S106m"9Replace this use of System.out or System.err by a logger.(ú£şÿÿÿÿ8¸ì´Îş0H<RMAJORZ
+CODE_SMELL
+j	java:S106u"9Replace this use of System.out or System.err by a logger.(¶ËÑÚ8¸ì´Îş0H=RMAJORZ
+CODE_SMELL
+o	java:S106{"9Replace this use of System.out or System.err by a logger.(ßá×úÿÿÿÿ8¸ì´Îş0H>RMAJORZ
+CODE_SMELL
+b
+java:S1068
+"+Remove this unused "maquina" private field.(·Ú‰Öúÿÿÿÿ8¸ì´Îş0H?RMAJORZ
+CODE_SMELL
+a
+java:S1068"*Remove this unused "random" private field.(’ºİÃøÿÿÿÿ8¸ì´Îş0HBRMAJORZ
+CODE_SMELL
